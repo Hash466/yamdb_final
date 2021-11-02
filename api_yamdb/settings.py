@@ -10,7 +10,7 @@ GOOGLE_PASSWORD = os.getenv('GOOGLE_PASSWORD')
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-SECRET_KEY = os.getenv('SECRET_KEY', default='1233123124')
+SECRET_KEY = os.getenv('SECRET_KEY', default='hw62vdF&^d3e2gdp0162vjHG376')
 
 DEBUG = False
 
