@@ -1,7 +1,4 @@
-![example workflow](https://github.com/Hash466/yamdb_final.git/actions/workflows/yamdb_workflow/badge.svg)
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
-![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=main)
-![example event parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=pull_request)
+![example workflow](https://github.com/github/docs/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 # Проект спринта 11: YaMDb  
   
